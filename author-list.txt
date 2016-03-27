@@ -1,1 +1,14 @@
-changing things
+Alice
+An old contributor whose best poems include "Cheshire", an acrostic about her best friend.
+
+Alice's sister
+A prolific poet who prefers to remain anonymous while she writes about people, Alice's sister has contributed works such as "Sharon" and "Alice".
+
+The Doormouse
+A talking mouse who lives in a teakettle, The Doormouse contributes poems about animals (such as "Hedgehog" and the classic "Flea").
+
+Jack Kerouac
+Jack is a famous Beat poet, who believed the American haiku was unconstrained by the syllabic requirements of the original Japanese form.
+
+The White Rabbit
+Perpetually late, his submissions are included despite their pessimistic outlook on code.
