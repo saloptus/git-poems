@@ -1,11 +1,22 @@
 ___ People ___
 
+"Sharon"
+
 Smart
 Honest
 Aardvark
 Rocks
 On
 Now
+
+
+"Alice"
+
+Aloor
+Lucky
+Impetuous
+Curious
+Entertaining
 
 
 
@@ -42,4 +53,11 @@ Harmonious
 On-time
 Giggly
 
+
+"Flea"
+
+Footloose
+Leaping
+Ebullient
+Agonizing
 
